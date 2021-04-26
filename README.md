@@ -2,4 +2,4 @@
 A test repository for R-Studio
 
 
-\ce{H2O}
+I will also upload LaTeX templates here as well.
